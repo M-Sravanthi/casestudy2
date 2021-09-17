@@ -13,5 +13,11 @@ feature1()
 {
 //this is feature 1 code
 
+
 }
-}
+=======
+feature2()
+{
+//this is feature2
+}}
+
